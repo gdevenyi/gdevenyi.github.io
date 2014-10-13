@@ -131,17 +131,17 @@ Back when I joined Reddit, the defaults were very different.
 There was a much larger proportion of links to longer form news stories, investigative journalism, opinion pieces and articles on science.
 In the spirit of how Reddit once was, a number of subreddits have attempted to recreate this, through strong moderation and an involved commmunity. Here is a selection of ones I enjoy:
 
-- https://www.reddit.com/r/TrueReddit/
-- https://www.reddit.com/r/DepthHub
-- https://www.reddit.com/r/Cerebral
-- https://www.reddit.com/r/Foodforthought/
-- https://www.reddit.com/r/Vignettes
-- https://www.reddit.com/r/TrueTrueReddit
-- https://www.reddit.com/r/TruerReddit
-- https://www.reddit.com/r/Modded
-- https://www.reddit.com/r/truegaming/
-- https://www.reddit.com/r/TrueRedditNoPolitics/
-- https://www.reddit.com/r/TrueRedditVideos/
+- [https://www.reddit.com/r/TrueReddit](https://www.reddit.com/r/TrueReddit)
+- [https://www.reddit.com/r/DepthHub](https://www.reddit.com/r/DepthHub)
+- [https://www.reddit.com/r/Cerebral](https://www.reddit.com/r/Cerebral)
+- [https://www.reddit.com/r/Foodforthought](https://www.reddit.com/r/Foodforthough)
+- [https://www.reddit.com/r/Vignettes](https://www.reddit.com/r/Vignettes)
+- [https://www.reddit.com/r/TrueTrueReddit](https://www.reddit.com/r/TrueTrueReddit)
+- [https://www.reddit.com/r/TruerReddit](https://www.reddit.com/r/TruerReddit)
+- [https://www.reddit.com/r/Modded](https://www.reddit.com/r/Modded)
+- [https://www.reddit.com/r/truegaming](https://www.reddit.com/r/truegaming)
+- [https://www.reddit.com/r/TrueRedditNoPolitics](https://www.reddit.com/r/TrueRedditNoPolitics)
+- [https://www.reddit.com/r/TrueRedditVideos](https://www.reddit.com/r/TrueRedditVideos)
 
 ## Interesting Conversations
 
@@ -149,33 +149,33 @@ One thing that didn't exist back when I joined Reddit were any vibrant "topic-fo
 Such discussion subreddits couldn't really exist until the Reddit reached a critical mass of members.
 There are a number which have popped up in the last few years which have some really interesting spins attempts to generate discussion.
 
-- https://www.reddit.com/r/InsightfulQuestions
-- https://www.reddit.com/r/changemyview/
-- https://www.reddit.com/r/AskAcademia/
-- https://www.reddit.com/r/AskCulinary/
-- https://www.reddit.com/r/AskElectronics/
-- https://www.reddit.com/r/askscience/
-- https://www.reddit.com/r/AskScienceAMA/
+- [https://www.reddit.com/r/InsightfulQuestions](https://www.reddit.com/r/InsightfulQuestions)
+- [https://www.reddit.com/r/changemyview](https://www.reddit.com/r/changemyview)
+- [https://www.reddit.com/r/AskAcademia](https://www.reddit.com/r/AskAcademia)
+- [https://www.reddit.com/r/AskCulinary](https://www.reddit.com/r/AskCulinary)
+- [https://www.reddit.com/r/AskElectronics](https://www.reddit.com/r/AskElectronics)
+- [https://www.reddit.com/r/askscience](https://www.reddit.com/r/askscience)
+- [https://www.reddit.com/r/AskScienceAMA](https://www.reddit.com/r/AskScienceAMA)
 
 ## Domain Specific Communities
 Reddit's subreddit system allows people interested in specific things to discuss and share links, here are a few that I subscribe to.
 Obviously this is more a reflection of what I'm interested in, you should search Reddit for what you like.
 
-- https://www.reddit.com/r/Android/
-- https://www.reddit.com/r/bicycling/
-- https://www.reddit.com/r/Bitcoin/
-- https://www.reddit.com/r/books/
-- https://www.reddit.com/r/buildapc/
-- https://www.reddit.com/r/canada/
-- https://www.reddit.com/r/chemistry/
-- https://www.reddit.com/r/coding/
-- https://www.reddit.com/r/Cooking/
-- https://www.reddit.com/r/cordcutters/
-- https://www.reddit.com/r/electronics/
-- https://www.reddit.com/r/Fitness/
-- https://www.reddit.com/r/math/
-- https://www.reddit.com/r/neuro/
-- https://www.reddit.com/r/Physics/
+- [https://www.reddit.com/r/Android](https://www.reddit.com/r/Android)
+- [https://www.reddit.com/r/bicycling](https://www.reddit.com/r/bicycling)
+- [https://www.reddit.com/r/Bitcoin](https://www.reddit.com/r/Bitcoin)
+- [https://www.reddit.com/r/books](https://www.reddit.com/r/books)
+- [https://www.reddit.com/r/buildapc](https://www.reddit.com/r/buildapc)
+- [https://www.reddit.com/r/canada](https://www.reddit.com/r/canada)
+- [https://www.reddit.com/r/chemistry](https://www.reddit.com/r/chemistry)
+- [https://www.reddit.com/r/coding](https://www.reddit.com/r/coding)
+- [https://www.reddit.com/r/Cooking](https://www.reddit.com/r/Cooking)
+- [https://www.reddit.com/r/cordcutters](https://www.reddit.com/r/cordcutters)
+- [https://www.reddit.com/r/electronics](https://www.reddit.com/r/electronics)
+- [https://www.reddit.com/r/Fitness](https://www.reddit.com/r/Fitness)
+- [https://www.reddit.com/r/math](https://www.reddit.com/r/math)
+- [https://www.reddit.com/r/neuro](https://www.reddit.com/r/neuro)
+- [https://www.reddit.com/r/Physics](https://www.reddit.com/r/Physics)
 
 ## Self Improvement
 One of the most helpful things I've found on Reddit is the communities centered on self-improvement.
@@ -183,16 +183,16 @@ People geek out on clothes, hair, organization, and a myriad of other helpful to
 The posts I've read on these subreddits have helped me to be more productive, dress better, and be a better person in general.
 Why would I do this? See my post on [Kaizen](2014/09/24/kaizen/).
 
-- https://www.reddit.com/r/DecidingToBeBetter/
-- https://www.reddit.com/r/frugalmalefashion/
-- https://www.reddit.com/r/gtd/
-- https://www.reddit.com/r/malefashionadvice/
-- https://www.reddit.com/r/malegrooming/
-- https://www.reddit.com/r/malehairadvice/
-- https://www.reddit.com/r/malelifestyle/
-- https://www.reddit.com/r/personalfinance/
-- https://www.reddit.com/r/productivity/
-- https://www.reddit.com/r/selfimprovement/
+- [https://www.reddit.com/r/DecidingToBeBetter](https://www.reddit.com/r/DecidingToBeBetter)
+- [https://www.reddit.com/r/frugalmalefashion](https://www.reddit.com/r/frugalmalefashion)
+- [https://www.reddit.com/r/gtd](https://www.reddit.com/r/gtd)
+- [https://www.reddit.com/r/malefashionadvice](https://www.reddit.com/r/malefashionadvice)
+- [https://www.reddit.com/r/malegrooming](https://www.reddit.com/r/malegrooming)
+- [https://www.reddit.com/r/malehairadvice](https://www.reddit.com/r/malehairadvice)
+- [https://www.reddit.com/r/malelifestyle](https://www.reddit.com/r/malelifestyle)
+- [https://www.reddit.com/r/personalfinance](https://www.reddit.com/r/personalfinance)
+- [https://www.reddit.com/r/productivity](https://www.reddit.com/r/productivity)
+- [https://www.reddit.com/r/selfimprovement](https://www.reddit.com/r/selfimprovement)
 
 ## Final Thoughts
 Reddit, if you're not careful, can eat a significant amount of your time.
